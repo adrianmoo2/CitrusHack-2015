@@ -26,3 +26,5 @@ were not able to finish properly implementing different weapons due
 to time constraints.
 
 The Hackathon and completion of this project took place on November 2015.
+
+EDIT: Unfortunately, we neglecte to take pictures during the completion of the project, and many of our function calls are now deprecated. However, I am trying to update the code so that I can post a picture or two on this README.
